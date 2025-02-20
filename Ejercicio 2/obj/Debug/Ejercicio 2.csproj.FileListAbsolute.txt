@@ -1,0 +1,10 @@
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Ejercicio 2\obj\Debug\Ejercicio_2.Form1.resources
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Ejercicio 2\obj\Debug\Ejercicio_2.Properties.Resources.resources
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
