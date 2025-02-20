@@ -1,0 +1,10 @@
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Practica 5\bin\Debug\Practica 5.exe.config
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Practica 5\bin\Debug\Practica 5.exe
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Practica 5\bin\Debug\Practica 5.pdb
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Practica 5\obj\Debug\Practica 5.csproj.AssemblyReference.cache
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Practica 5\obj\Debug\Practica_5.Form1.resources
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Practica 5\obj\Debug\Practica_5.Properties.Resources.resources
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Practica 5\obj\Debug\Practica 5.csproj.GenerateResource.cache
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Practica 5\obj\Debug\Practica 5.csproj.CoreCompileInputs.cache
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Practica 5\obj\Debug\Practica 5.exe
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Practica 5\obj\Debug\Practica 5.pdb
