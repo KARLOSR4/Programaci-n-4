@@ -1,0 +1,11 @@
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Pokedex\obj\Debug\Pokedex.csproj.AssemblyReference.cache
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Pokedex\obj\Debug\Pokedex.Form1.resources
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.cache
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Pokedex\obj\Debug\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Pokedex\obj\Debug\Pokedex.pdb
+C:\Users\Ventu\OneDrive\Desktop\Visual Basic\Pokedex\obj\Debug\Pokedex.Form2.resources
